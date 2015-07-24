@@ -1,6 +1,6 @@
 ---
 ID: 680
-post_title: '>Lesnar&#8217;s rocky road takes another turn &#8211; UFC &#8211; Yahoo! Sports'
+post_title: 'Lesnar&#8217;s rocky road takes another turn &#8211; UFC &#8211; Yahoo! Sports'
 author: Jason L. Gatewood
 post_date: 2009-11-18 18:50:00
 post_excerpt: ""
