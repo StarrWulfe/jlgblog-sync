@@ -1,0 +1,23 @@
+---
+ID: 557
+post_title: '>Mao-chan Mania&#8211;浅田麻央はひな人形になったら'
+author: Jason L. Gatewood
+post_date: 2010-02-27 09:43:00
+post_excerpt: ""
+layout: post
+permalink: >
+  http://jlgatewood.com/2010/02/27/mao-chan-mania-%e6%b5%85%e7%94%b0%e9%ba%bb%e5%a4%ae%e3%81%af%e3%81%b2%e3%81%aa%e4%ba%ba%e5%bd%a2%e3%81%ab%e3%81%aa%e3%81%a3%e3%81%9f%e3%82%89/
+published: true
+blogger_blog:
+  - www.jlgatewood.com
+blogger_author:
+  - Jason L. Gatewood
+blogger_permalink:
+  - >
+    /feeds/2631850721828837457/posts/default/2765092885489118239
+shorturl:
+  - http://J7is.ME/1s
+tmac_last_id:
+  - "624406735965548544"
+---
+><div><img class="aligncenter size-medium wp-image-15666" title="asada mao doll" src="http://www.jlgatewood.com/wp-content/uploads/2010/10/asada-mao-doll-450x263.jpg" height="263" alt="" width="450" /><p /><div>Even though she "only" got 2nd place (My God, who the heck could stand up to Yu-Na Kim's performance anyhow?!)  Mao is still a tough cookie...  But someone here in Japan took things overboard and made here in to a ひな人形 (hina doll-- for the Hina matsuri...  You know, Girl's Day...  Ok Ok, time for a quick culture lesson...)<p /><p /><blockquote type="cite"><div>The <a href="http://en.wikipedia.org/wiki/Japan" title="Japan">Japanese</a> <b>Doll Festival</b> <span style="font-weight: normal;">(<span xml:lang="ja">雛祭り</span><span style="display: none;">,</span> <i>Hina-matsuri</i>)</span>, or <b>Girls' Day,</b> is held on March 3.<sup><a href="http://en.wikipedia.org/wiki/Hinamatsuri#cite_note-Sosnoski-0"><span>[</span>1<span>]</span></a></sup> Platforms covered with a red carpet are used to display a set of ornamental dolls <span style="font-weight: normal;">(<span xml:lang="ja">雛人形</span><span style="display: none;">,</span> <i>hina-ningyō</i>)</span> representing the <a href="http://en.wikipedia.org/wiki/Emperor_of_Japan" title="Emperor of Japan">Emperor</a>, <a href="http://en.wikipedia.org/wiki/Japanese_empresses" title="Japanese empresses">Empress</a>, attendants, and musicians in traditional court dress of the <a href="http://en.wikipedia.org/wiki/Heian_period" title="Heian period">Heian period</a>.  The custom of displaying dolls began during the <a href="http://en.wikipedia.org/wiki/Heian_period" title="Heian period">Heian period</a>. Formerly, people believed the dolls possessed the power to contain bad <a href="http://en.wikipedia.org/wiki/Spiritual_being" title="Spiritual being">spirits</a>. Hinamatsuri traces its origins to an ancient Japanese custom called <i>hina-nagashi</i> <span style="font-weight: normal;">(<span xml:lang="ja">雛流し</span>, lit. "doll floating")</span>, in which straw hina dolls are set afloat on a boat and sent down a river to the sea, supposedly taking troubles or bad spirits with them.  </div><div>--Thank you <a href="http://en.wikipedia.org/wiki/Hinamatsuri">Wikipedia!</a></div></blockquote> <br /><div>Ok, now that you know what that is-- here is the weirdness on video...  Bear in mind though, this is to *support* Mao-chan, not creep her out.  Still, most Japanese folks I asked about this after seeing it on TV earlier today said it's pretty creepy...  (yeah, the video is in Japanese BTW.  Comment away if you need a translation, I'll give you one if that many people care for it) </div><p /><div><object height="417" width="500"><param name="movie" value="http://www.youtube.com/v/S9bl2cvox9I&hl=en&fs=1" /><param name="wmode" value="window" /><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><embed src="http://www.youtube.com/v/S9bl2cvox9I&hl=en&fs=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" height="417" wmode="window" width="500"></embed></object></div><p /><div>Now Mao-chan again took 2nd place behind Yu-Na Kim...  But who the F cares-- both of them are cute, and it takes a stupid amount of skill, practice, and dedication to get this good...  And they're only 19...  I wish I had half the focus of these two and I'm close to being double their age.  (Where has my life gone?!)  I shouldn't have to tell you the outcome though...  </div><p /><div><object height="417" width="500"><param name="movie" value="http://www.youtube.com/v/8N3utEWfXOI&hl=en&fs=1" /><param name="wmode" value="window" /><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><embed src="http://www.youtube.com/v/8N3utEWfXOI&hl=en&fs=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" height="417" wmode="window" width="500"></embed></object></div></div><p style="font-size: 9px;">  Posted via email from <a href="http://starrwulfe.info/mao-chan-mania">...all about starrwulfe...</a>  </p></div>

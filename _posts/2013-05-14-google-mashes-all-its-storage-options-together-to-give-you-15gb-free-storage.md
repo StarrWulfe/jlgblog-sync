@@ -1,0 +1,30 @@
+---
+ID: 6092
+post_title: 'Google mashes all it&#8217;s storage options together to give you 15GB free storage'
+author: Jason L. Gatewood
+post_date: 2013-05-14 22:42:48
+post_excerpt: ""
+layout: post
+permalink: >
+  http://jlgatewood.com/2013/05/14/google-mashes-all-its-storage-options-together-to-give-you-15gb-free-storage/
+published: true
+bbppt_draft_settings:
+  - 'a:3:{s:8:"forum_id";s:1:"0";s:7:"display";s:5:"topic";s:14:"display-extras";a:2:{s:6:"xcount";s:1:"5";s:5:"xsort";s:6:"newest";}}'
+shorturl:
+  - http://J7is.ME/f
+tmac_last_id:
+  - "624406493731926016"
+---
+<strong style="color: #262626; font-family: arial, sans-serif; line-height: 18px;">Come Together! <a class="zem_slink" title="Google" href="http://google.com" rel="homepage" target="_blank">Google</a> Products!</strong><br style="color: #262626; font-family: arial, sans-serif; line-height: 18px;" /><span style="color: #262626; font-family: arial, sans-serif; line-height: 18px;">Looks like the folks over at Google are taking your storage space and moving all in one spot.  You can now have 15GB for you to share across <a class="zem_slink" title="Google Drive" href="http://https://drive.google.com/" rel="homepage" target="_blank">Drive</a>, <a class="zem_slink" title="Gmail" href="http://gmail.com" rel="homepage" target="_blank">Gmail</a>, and </span><span class="proflinkWrapper" style="color: #262626; font-family: arial, sans-serif; line-height: 18px;"><a class="proflink" style="color: #3366cc; cursor: pointer; text-decoration: none;" href="https://plus.google.com/108972862430615180924">Google+ Photos</a></span><span style="color: #262626; font-family: arial, sans-serif; line-height: 18px;">.</span>
+
+This is just one of the many announcements we can expect in the next 24 hours before the main show goes down at Google I/O in San Francisco on 15 May. That's where you can expect to see the Big G showcase its new products, code, and vision for the next year and beyond. You don't need to be in the building to check it out; Google will live stream it via the Google Developer's homepage.
+I'll also be embedding it into the front page of this website too.
+
+<span style="color: #262626; font-family: arial, sans-serif; line-height: 18px;"> </span><a href="http://googledrive.blogspot.jp/2013/05/bringing-it-all-together-15-gb-now.html">Bringing it all together: 15 GB now shared between Drive, Gmail, and Google+ Photos</a>.
+<h6 class="zemanta-related-title" style="font-size: 1em;">Related articles</h6>
+<ul class="zemanta-article-ul zemanta-article-ul-image" style="margin: 0; padding: 0; overflow: hidden;">
+	<li class="zemanta-article-ul-li-image zemanta-article-ul-li" style="padding: 0; background: none; list-style: none; display: block; float: left; vertical-align: top; text-align: left; width: 84px; font-size: 11px; margin: 2px 10px 10px 2px;"><a style="box-shadow: 0px 0px 4px #999; padding: 2px; display: block; border-radius: 2px; text-decoration: none;" href="http://googlesystem.blogspot.com/2013/05/shared-storage-for-gmail-google-drive.html" target="_blank"><img style="padding: 0; margin: 0; border: 0; display: block; width: 80px; max-width: 100%;" src="http://jlgatewood.com.previewdns.com/wp-content/uploads/2013/05/168598300_80_80.jpg" alt="" /></a><a style="display: block; overflow: hidden; text-decoration: none; line-height: 12pt; height: 80px; padding: 5px 2px 0 2px;" href="http://googlesystem.blogspot.com/2013/05/shared-storage-for-gmail-google-drive.html" target="_blank">Shared Storage for Gmail, Google Drive and Google+ Photos</a></li>
+	<li class="zemanta-article-ul-li-image zemanta-article-ul-li" style="padding: 0; background: none; list-style: none; display: block; float: left; vertical-align: top; text-align: left; width: 84px; font-size: 11px; margin: 2px 10px 10px 2px;"><a style="box-shadow: 0px 0px 4px #999; padding: 2px; display: block; border-radius: 2px; text-decoration: none;" href="http://techcrunch.com/2013/05/13/google-unifies-its-free-storage-now-gives-you-15gb-for-drive-gmail-and-google-photos/" target="_blank"><img style="padding: 0; margin: 0; border: 0; display: block; width: 80px; max-width: 100%;" src="http://jlgatewood.com.previewdns.com/wp-content/uploads/2013/05/168517324_80_80.jpg" alt="" /></a><a style="display: block; overflow: hidden; text-decoration: none; line-height: 12pt; height: 80px; padding: 5px 2px 0 2px;" href="http://techcrunch.com/2013/05/13/google-unifies-its-free-storage-now-gives-you-15gb-for-drive-gmail-and-google-photos/" target="_blank">Google Unifies Its Free And Paid Storage Options, Bumps You To 15GB To Share Between Drive, Gmail And Google+ Photos</a></li>
+	<li class="zemanta-article-ul-li-image zemanta-article-ul-li" style="padding: 0; background: none; list-style: none; display: block; float: left; vertical-align: top; text-align: left; width: 84px; font-size: 11px; margin: 2px 10px 10px 2px;"><a style="box-shadow: 0px 0px 4px #999; padding: 2px; display: block; border-radius: 2px; text-decoration: none;" href="http://www.coolsmartphone.com/2013/05/13/google-combines-gmail-drive-storage-15gb-shared-space-for-all/" target="_blank"><img style="padding: 0; margin: 0; border: 0; display: block; width: 80px; max-width: 100%;" src="http://jlgatewood.com.previewdns.com/wp-content/uploads/2013/05/168546551_80_80.jpg" alt="" /></a><a style="display: block; overflow: hidden; text-decoration: none; line-height: 12pt; height: 80px; padding: 5px 2px 0 2px;" href="http://www.coolsmartphone.com/2013/05/13/google-combines-gmail-drive-storage-15gb-shared-space-for-all/" target="_blank">Google combines Gmail &amp; Drive storage...15GB shared space for all</a></li>
+</ul>
+<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Enhanced by Zemanta" href="http://www.zemanta.com/?px"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/zemified_h.png?x-id=61f3a0e8-8dd8-424c-8d15-f66a7e865b16" alt="Enhanced by Zemanta" /></a></div>

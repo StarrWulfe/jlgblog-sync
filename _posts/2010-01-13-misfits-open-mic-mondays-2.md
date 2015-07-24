@@ -1,0 +1,23 @@
+---
+ID: 595
+post_title: '>Misfit&#8217;s open mic Mondays'
+author: Jason L. Gatewood
+post_date: 2010-01-13 12:59:00
+post_excerpt: ""
+layout: post
+permalink: >
+  http://jlgatewood.com/2010/01/13/misfits-open-mic-mondays-2/
+published: true
+blogger_blog:
+  - www.jlgatewood.com
+blogger_author:
+  - Jason L. Gatewood
+blogger_permalink:
+  - >
+    /feeds/2631850721828837457/posts/default/434864960824867519
+shorturl:
+  - http://J7is.ME/g7
+tmac_last_id:
+  - ""
+---
+><div><p> </p>  <p><a href="http://posterous.com/getfile/files.posterous.com/starrwulfe/hEnvvBgfczIrGpfthrswHcHqnDvezkziqeIoooFvevcxgcvExumxqjIpgGrx/IMG_0147.jpg.scaled1000.jpg"><img src="http://posterous.com/getfile/files.posterous.com/starrwulfe/hEnvvBgfczIrGpfthrswHcHqnDvezkziqeIoooFvevcxgcvExumxqjIpgGrx/IMG_0147.jpg.scaled500.jpg" width="500" height="375" /></a> </p>  <p>Yup, Nagoya's smallest gaijin bar is big on partying every Monday. If you can play an instrument, sing, good at drinking, talking, and eating, or at least 2 of the above, get your tail over there and check the action.</p>  <p>Stevie P cooks something good up to eat (we had a ¥1000 steak dinner last night yo!) and Mike Wade tends bar between their turn on the mic.</p>  <p>I have a blast with these guys, even though I have the musical talent of a three-toed sloth on heroin...</p>  <p><object height="360" width="480"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=8698310&server=vimeo.com&show_title=1&show_byline=1&show_portrait=1&color=00ADEF&fullscreen=1" /><embed allowfullscreen="true" src="http://vimeo.com/moogaloop.swf?clip_id=8698310&server=vimeo.com&show_title=1&show_byline=1&show_portrait=1&color=00ADEF&fullscreen=1" allowscriptaccess="always" type="application/x-shockwave-flash" height="360" width="480"></embed></object></p>  <p><object height="360" width="480"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=8698294&server=vimeo.com&show_title=1&show_byline=1&show_portrait=1&color=00ADEF&fullscreen=1" /><embed allowfullscreen="true" src="http://vimeo.com/moogaloop.swf?clip_id=8698294&server=vimeo.com&show_title=1&show_byline=1&show_portrait=1&color=00ADEF&fullscreen=1" allowscriptaccess="always" type="application/x-shockwave-flash" height="360" width="480"></embed></object></p>  <p> </p>  <p> </p>  <p>  </p><p>       <div style='padding: 5px 5px 10px 5px; margin-top: 5px; border: 1px solid #ddd; background-color: #fff;line-height: 16px;'>       <div style="float: left; margin-right: 5px; overflow: visible;"><a href="http://posterous.com/getfile/files.posterous.com/starrwulfe/uvgCpqnBBgpICJCFvctmvwqopExdkdceaEgyrzBsIADuJIHqykzChozmmvGg/IMG_0148.mov" style="color: #bc7134;"><img src="http://posterous.com/images/filetypes/mov.png" style="border: none;" /></a></div>       <div style="font-size: 10px; color: #424037;line-height: 16px;">Click here to download:</div>       <b><a href="http://posterous.com/getfile/files.posterous.com/starrwulfe/uvgCpqnBBgpICJCFvctmvwqopExdkdceaEgyrzBsIADuJIHqykzChozmmvGg/IMG_0148.mov" style="color: #bc7134;">IMG_0148.mov</a></b> <span style="font-size: 10px; color: #424037;">(54327 KB)</span>       <br style="clear: both;"/></div>      </p>    <p>       <div style='padding: 5px 5px 10px 5px; margin-top: 5px; border: 1px solid #ddd; background-color: #fff;line-height: 16px;'>       <div style="float: left; margin-right: 5px; overflow: visible;"><a href="http://posterous.com/getfile/files.posterous.com/starrwulfe/GvJBvcExfxCnCHdBbznDgcbGAkwEdHAlegCHBjcxvGaCnfEJGaucsFlgjddl/IMG_0150.mov" style="color: #bc7134;"><img src="http://posterous.com/images/filetypes/mov.png" style="border: none;" /></a></div>       <div style="font-size: 10px; color: #424037;line-height: 16px;">Click here to download:</div>       <b><a href="http://posterous.com/getfile/files.posterous.com/starrwulfe/GvJBvcExfxCnCHdBbznDgcbGAkwEdHAlegCHBjcxvGaCnfEJGaucsFlgjddl/IMG_0150.mov" style="color: #bc7134;">IMG_0150.mov</a></b> <span style="font-size: 10px; color: #424037;">(24576 KB)</span>       <br style="clear: both;"/></div>      </p>  <p> </p>  <p> </p><p style="font-size: 9px;">  Posted via web from <a href="http://starrwulfe.info/misfits-open-mic-mondays">...all about starrwulfe...</a>  </p></div>

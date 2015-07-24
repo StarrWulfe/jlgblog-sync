@@ -1,0 +1,23 @@
+---
+ID: 277
+post_title: 'Forgot to show off the pix of cosplayers&#8230;'
+author: Jason L. Gatewood
+post_date: 2012-01-03 10:43:00
+post_excerpt: ""
+layout: post
+permalink: >
+  http://jlgatewood.com/2012/01/03/forgot-to-show-off-the-pix-of-cosplayers/
+published: true
+blogger_blog:
+  - www.jlgatewood.com
+blogger_author:
+  - Jason L. Gatewood
+blogger_permalink:
+  - >
+    /feeds/2631850721828837457/posts/default/4112434142788382692
+shorturl:
+  - http://J7is.ME/gh
+tmac_last_id:
+  - "624406594340712448"
+---
+Forgot to show off the pix of cosplayers in the ComicCon event in Odaiba from a few days ago... So enjoy!!<br /><br /><a href="https://plus.google.com/photos/108098330393589915102/albums/5692705144593444305/5692705141808245730" target="_blank"><img class="alignleft" src="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&gadget=a&resize_h=100&url=https%3A%2F%2Flh4.googleusercontent.com%2F-jgrAfaKi7lE%2FTwCNKkyFK-I%2FAAAAAAAAEME%2FRNBPUnndM_k%2Fw128-h73%2F2011-12-29_14-49-24_704.jpg" alt="" width="175" height="100" /></a><br /><br /><a href="https://plus.google.com/photos/108098330393589915102/albums/5692705144593444305/5692705143214531666" target="_blank"><img class="alignleft" src="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&gadget=a&resize_h=100&url=https%3A%2F%2Flh6.googleusercontent.com%2F-SwVVa8iXGY4%2FTwCNKqBXZFI%2FAAAAAAAAEME%2Fx_lT2rmSgxw%2Fw128-h72%2F2011-12-29_15-41-14_293.jpg" alt="" width="177" height="100" /></a><br /><br /><a href="https://plus.google.com/photos/108098330393589915102/albums/5692705144593444305/5692705143646741250" target="_blank"><img class="alignleft" src="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&gadget=a&resize_h=100&url=https%3A%2F%2Flh5.googleusercontent.com%2F-0dOicEqtAy8%2FTwCNKroaYwI%2FAAAAAAAAEME%2Fc9y3KF9fAhc%2Fw54-h96%2F2011-12-29_15-43-12_558.jpg" alt="" width="56" height="100" /></a><br /><br /><a href="https://plus.google.com/photos/108098330393589915102/albums/5692705144593444305/5692705143251637714" target="_blank"><img class="alignleft" src="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&gadget=a&resize_h=100&url=https%3A%2F%2Flh4.googleusercontent.com%2F-nQ_lRVmihpY%2FTwCNKqKNldI%2FAAAAAAAAEME%2FQwOrVnUfpLU%2Fw54-h96%2F2011-12-29_15-44-41_779.jpg" alt="" width="56" height="100" /></a><br /><br /><a href="https://plus.google.com/photos/108098330393589915102/albums/5692705144593444305/5692705143957112066" target="_blank"><img class="alignleft" src="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&gadget=a&resize_h=100&url=https%3A%2F%2Flh5.googleusercontent.com%2F-F-FxS2Mju2k%2FTwCNKsyaRQI%2FAAAAAAAAEME%2FSH546YZ_h4E%2Fw54-h96%2F2011-12-29_15-45-34_750.jpg" alt="" /></a><br /><br /><a href="https://plus.google.com/photos/108098330393589915102/albums/5692705144593444305/5692705143324357202" target="_blank"><img class="alignleft" src="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&gadget=a&resize_h=100&url=https%3A%2F%2Flh6.googleusercontent.com%2F-D5aAzgdMyp8%2FTwCNKqbjMlI%2FAAAAAAAAEME%2FAGBfpsYDJaU%2Fw54-h96%2F2011-12-29_15-47-42_37.jpg" alt="" /></a><br /><br /><a href="https://plus.google.com/photos/108098330393589915102/albums/5692705144593444305/5692705142736510226" target="_blank"><img class="alignleft" src="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&gadget=a&resize_h=100&url=https%3A%2F%2Flh4.googleusercontent.com%2F-g2LAWNxsjQ8%2FTwCNKoPZXRI%2FAAAAAAAAEME%2F-ABVd8gxb4A%2Fw55-h96%2F2011-12-29_15-48-57_523.jpg" alt="" /></a><br /><br /><a href="https://plus.google.com/photos/108098330393589915102/albums/5692705144593444305/5692705141190733330" target="_blank"><img class="alignleft" src="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&gadget=a&resize_h=100&url=https%3A%2F%2Flh5.googleusercontent.com%2F-UuJBec-eVhE%2FTwCNKie2rhI%2FAAAAAAAAEME%2FqiUKbGlTkUo%2Fw128-h73%2F2011-12-29_15-49-26_703.jpg" alt="" /></a><br /><br /><a href="https://plus.google.com/photos/108098330393589915102/albums/5692705144593444305/5692705144158044290" target="_blank"><img class="alignleft" src="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&gadget=a&resize_h=100&url=https%3A%2F%2Flh3.googleusercontent.com%2F-O86Wd38eQP0%2FTwCNKtiUQII%2FAAAAAAAAEME%2F3ZsevvXoNUA%2Fw128-h74%2F2011-12-29_15-49-36_1.jpg" alt="" /></a>

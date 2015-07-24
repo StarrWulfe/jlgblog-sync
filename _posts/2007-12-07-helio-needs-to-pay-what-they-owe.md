@@ -1,0 +1,23 @@
+---
+ID: 818
+post_title: '>Helio needs to pay what they owe!!'
+author: Jason L. Gatewood
+post_date: 2007-12-07 10:16:00
+post_excerpt: ""
+layout: post
+permalink: >
+  http://jlgatewood.com/2007/12/07/helio-needs-to-pay-what-they-owe/
+published: true
+blogger_blog:
+  - www.jlgatewood.com
+blogger_author:
+  - Jason L. Gatewood
+blogger_permalink:
+  - >
+    /feeds/2631850721828837457/posts/default/7097274074036506932
+shorturl:
+  - http://J7is.ME/4m
+tmac_last_id:
+  - ""
+---
+><a href="http://www.jlgatewood.com/wp-content/uploads/2010/10/helio_ocean.jpg"><img style="margin: 0pt 10px 10px 0pt; float: left; cursor: pointer; width: 141px; height: 96px;" src="http://www.jlgatewood.com/wp-content/uploads/2010/10/helio_ocean.jpg" alt="" border="0" /></a><br />I had an Ocean when it first came out back in May.  I purchased it through a deal with a rep that was with Helio corporate that a lot of other "early adopters" had also gone through to get on the list to get the Ocean the day it dropped.   Long story short, I returned the device and canceled service on the 27th day of service because there wasn't any exchange mail on the Ocean then, and I need it for work.<br /><br />Once I sent it back, I was told that I would have to wait 60 days for a refund on the device.  This would have made September 13th the day that i would receive a refund.  I was already upset that I had to wait 3 months for a refund on something I purchased and sent back--I was told my refund would be immediate if I wasn't satisfied and there would be no penalty or ETF charge as long as I did it within the 30 day period, which as I illustrated above, was done correctly.<br /><br />Toward the end of September I noticed there had been no charge-back to the credit card I used to pay for the device, so I called Helio Customer Care.  They informed me that since I wasn't being billed on a credit card, they would have to cut me a check, and that would take an additional 3-4 weeks to do.  I cried foul-- I paid for the device with a credit card, so you have every right to charge it back on that same card if that would get my funds back quicker.  Helio said there was no way around it.  I think this is crazy--why would it take so long to print out a check and drop it in the mail?<br /><br />Well a month had passed, and I still had no check.  I called Helio again, and they said that I am due a check for $191.41, but it is still processing.  I asked what is there to process?  I havent been a customer since May 29th and I haven't seen a statement since July 25th for a credit of 42¢.  They insist that it's the Finance Department's fault, and they will escalate it and get back to me.   I have talked to 4 reps since then, most recently 20 minutes ago at 10:30am EST.  They are still singing the same tune, "I've emailed them about the situation, please call back in a day or two to get the updated status of your claim."  Pardon my language but this is f**king unacceptable.<br /><br />I have bills to pay like everyone else.  Take my cable bill.  I owed them $25 last month (silly me, I didn't type the right number in billpay and caused an error).  Now that was my mistake.  Did they cut me any slack?  Hell no, they cut my cable off 5 days later without notice and then I had to call them to ask what was going on and that's when I got the news that I was short.  My point is, when these large companies are owed monies, they will bug, hound and cause havoc with your life to get what's owed, but when one of them owes you, then they ignore you, say things like "It's hung up in finance" or "I'll escalate that" or whatever.<br /><br />So Helio, what are you gonna do?  You urge us not to call you a phone company, but you're acting like the AT&T, Sprints, and Verizons we all know and hate (at least toward me.)  I never said I didnt like the service when I had it; In fact I was kinda sad to give it up.  the Ocean is  a kick-ass device, and now that it finally has Exchange, chances are I would have returned to try it out again...  But since I can't get my refund back, and the steps I'm having to go through just to get it-- I'm soured by the experience.<br /><br />Can anyone out there in Helio land hear me?  I want my $191.41!!!  If I don't get it soon, I will post this story all over the blogosphere--places like Engadget, and Gizmodo, PhoneScoop and more.  Sooner or later the posts will get crawled by Google, Yahoo, and get Digged and Twittered...  All I want is for them to do right by me.  Anyone got any suggestions?<br /><br /><a href="http://forum.heliocity.net/index.php?topic=4110.0">See the progress of my fight to get my refund at Heliocity.net!<br /></a>

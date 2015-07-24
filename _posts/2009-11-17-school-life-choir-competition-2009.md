@@ -1,0 +1,23 @@
+---
+ID: 684
+post_title: '>School Life: Choir competition 2009'
+author: Jason L. Gatewood
+post_date: 2009-11-17 12:36:00
+post_excerpt: ""
+layout: post
+permalink: >
+  http://jlgatewood.com/2009/11/17/school-life-choir-competition-2009/
+published: true
+blogger_blog:
+  - www.jlgatewood.com
+blogger_author:
+  - Jason L. Gatewood
+blogger_permalink:
+  - >
+    /feeds/2631850721828837457/posts/default/487457213809031382
+shorturl:
+  - http://J7is.ME/g1
+tmac_last_id:
+  - ""
+---
+><div>       <div><a href="http://starrwulfe.posterous.com/private/pbojCltdlB"><img src="http://posterous.com/getfile/files.posterous.com/starrwulfe/mAmebrlIaAfvsfmwhamrjCvyFJlwtDmmBqIsIDelxtwizhhgFvJmqxkiwJHF/IMG_0075.jpg.scaled500.jpg" height="375" width="500" /></a><br /><a href="http://starrwulfe.posterous.com/private/pbojCltdlB"><span></span></a></div> Every school in Japan probably has one, choir competitions. It's not just some of the students in a choir club either--it's each and every student. All of them must train for weeks before, during, and after school for this one big day. Like most teens, most girls like it, most boys hate it. But on performance day, that goes out the window and the competitive spirit kicks in. </div><p> </p><p><a href="http://posterous.com/getfile/files.posterous.com/starrwulfe/zAoFAvoMchNsFX60GaBTsTyE62Wl8XiluH9EGfvARvpWVKPKlPSPrWWCHvo6/PA250569.jpg.scaled.1000.jpg"><img src="http://posterous.com/getfile/files.posterous.com/starrwulfe/Aey0khLXpRXmVhTGXFSdXo97JEhdHSIZfBBvJA9CpOQLjFleLFwZ8i2oRS7l/PA250569.jpg.scaled.500.jpg" height="375" width="500" /></a> <a href="http://posterous.com/getfile/files.posterous.com/starrwulfe/q0TcX08IGhPCsxFnAFWPdvk7v7EPjGZi17mURqUqhurcnZ3cT7lqVnCAZmIP/PA250600.jpg.scaled.1000.jpg"><img src="http://posterous.com/getfile/files.posterous.com/starrwulfe/7XdbsoWQsMlUcJ8PGSO4RHvLdp2yG65tCi53NDDTonCI2CTUFvxgATHiaHr7/PA250600.jpg.scaled.500.jpg" height="375" width="500" /></a> <a href="http://posterous.com/getfile/files.posterous.com/starrwulfe/MYxhA9V4sXR41MbyZlRUVgXV0EG3BafQFlVV8iptELFiUVjPbQef3cbUWzG1/PA250556.jpg.scaled.1000.jpg"><img src="http://posterous.com/getfile/files.posterous.com/starrwulfe/cPQka4NBgm7gHNQVek7OqDYdKU1wXyA1np54PO2xDZgXqupCHk848fmZa2n5/PA250556.jpg.scaled.500.jpg" height="375" width="500" /></a> <a href="http://posterous.com/getfile/files.posterous.com/starrwulfe/VKyfLKIbYvNu7YQ90jPdogcCWgc06wnfhn8OEd8mbxpkUjZZgPdTi0CczeHd/0PA250569.jpg.scaled.1000.jpg"><img src="http://posterous.com/getfile/files.posterous.com/starrwulfe/agjHQODdOGajiImkzB33xAWp6ViNsX2JOPH52Nm9sTlNqOehHTrztaZX80J0/0PA250569.jpg.scaled.500.jpg" height="375" width="500" /></a> <a href="http://posterous.com/getfile/files.posterous.com/starrwulfe/RnFjzd2gZV5N4BWRf12QNZ16Q6SvturCbVuuvclX6XbEDj2hRaEgRyAji0iU/PA250573.jpg.scaled.1000.jpg"><img src="http://posterous.com/getfile/files.posterous.com/starrwulfe/C1VPusWbPlhgzbsvq9C4GdSKBmRZjeeytwGsqtZQVjR3QlxAkLMHahhi4AYK/PA250573.jpg.scaled.500.jpg" height="375" width="500" /></a> <a href="http://posterous.com/getfile/files.posterous.com/starrwulfe/Arlq5FUO0TeP6bjutS7dthYg9n5Nuqin34YnJbQ3rhewUDaAMLmjD7NkJkst/PA250579.jpg.scaled.1000.jpg"><img src="http://posterous.com/getfile/files.posterous.com/starrwulfe/DjdvICyD3Ez1zyntDImfbxyr5e3oEbqEI7Pixu1LGndnAJ8Es0BAQ7lV4V42/PA250579.jpg.scaled.500.jpg" height="375" width="500" /></a> <a href="http://posterous.com/getfile/files.posterous.com/starrwulfe/D1cfk7C1w8OOHP5lHzLg5gBYrRnBW87xfFcLqGOHdznCogzggFnBP0LyMHxQ/PA250586.jpg.scaled.1000.jpg"><img src="http://posterous.com/getfile/files.posterous.com/starrwulfe/LEU7VvFzus2jZiiX3KXP2x63ZUSYAtuX1WHbqs7ZA3atgmRR7XprR4XQKrnx/PA250586.jpg.scaled.500.jpg" height="375" width="500" /></a> <a href="http://posterous.com/getfile/files.posterous.com/starrwulfe/6TZUMM4tE87cPhlZ3qI5tE6wHKon9sSrKqVlja5JBd5mgSnZgwVwO36YRFz9/PA250587.jpg.scaled.1000.jpg"><img src="http://posterous.com/getfile/files.posterous.com/starrwulfe/ki0OgbOMRmYBYxVa8beDLrB0snsg8IGqfpCGceDZSG2Fkmph3jNwSyx2aeyc/PA250587.jpg.scaled.500.jpg" height="375" width="500" /></a> <a href="http://posterous.com/getfile/files.posterous.com/starrwulfe/TgBsw2tyeSSjraXHqkRYhlt6lQnDYBfD404KRXeT9kpkUwTbAAgqAyTfEAgh/0PA250600.jpg.scaled.1000.jpg"><img src="http://posterous.com/getfile/files.posterous.com/starrwulfe/GrSm9A0NQqz4DRgJhOaym86FqXF44PTUyKtJL88frCDh0l0CsjIbuoJmLyoO/0PA250600.jpg.scaled.500.jpg" height="375" width="500" /></a> </p><div><a href="http://starrwulfe.posterous.com/school-life-choir-competition-2009">See and download the full gallery on posterous</a></div><p></p>      <p style="font-size: 8px;">  <a href="http://posterous.com/">Posted via email</a>   from <a href="http://starrwulfe.posterous.com/school-life-choir-competition-2009">...all about starrwulfe...</a>  </p>

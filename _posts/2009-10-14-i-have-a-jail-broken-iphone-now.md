@@ -1,0 +1,23 @@
+---
+ID: 711
+post_title: '>I have a jail-broken iPhone now!'
+author: Jason L. Gatewood
+post_date: 2009-10-14 19:30:00
+post_excerpt: ""
+layout: post
+permalink: >
+  http://jlgatewood.com/2009/10/14/i-have-a-jail-broken-iphone-now/
+published: true
+blogger_blog:
+  - www.jlgatewood.com
+blogger_author:
+  - Jason L. Gatewood
+blogger_permalink:
+  - >
+    /feeds/2631850721828837457/posts/default/9121349890293658810
+shorturl:
+  - http://J7is.ME/8u
+tmac_last_id:
+  - ""
+---
+><div> <blockquote><h1>Blackra1n jailbreaks iPhone OS 3.1.2</h1>      <div>  <span>  by    <a href="http://www.cnet.com/profile/David_W_Martin/">  David Martin</a>    </span>      <div>  <p>iPhone OS hacker, <a href="http://iphonejtag.blogspot.com/">GeoHot</a>, released <a href="http://blackra1n.com/">Blackra1n</a> this weekend, a new jailbreak utility for  <a href="http://www.cnet.com/apple-iphone.html">iPhone </a>OS 3.1.2.</p>  <p>The new Windows-only utility follows on the heels of <a href="http://news.cnet.com/8301-17938_105-10279029-1.html">Purplera1n</a> and you can <a href="http://blackra1n.com/">download</a> it now. Windows users can use it to jailbreak iPhone OS 3.1.2 on all iPhone and  <a href="http://www.cnet.com/ipod/">iPod Touch</a> models regardless of their hardware generation. Using the application is simple. You just plug in your iPhone or iPod Touch using the standard USB sync cable and follow the instructions below.</p>  <p><b>Difficulty level:</b><br />  Easy</p>  <p><b>What you need:</b><br />  >PC running Windows XP or Vista<br />  >Download Blackra1n using from <a href="http://blackra1n.com/">blackra1n.com</a></p>  <p><b>Notes:</b></p>  <ul>  <li>BlackRa1n does not unlock your iPhone so that it can be used with another carrier. </li>  <li>If you have already updated to 3.1 or higher and you did not use PwangeTool to upgrade from an earlier iPhone OS version, then you will not be able to unlock your iPhone until PwangeTool is updated.</li>  <li><b>iPod Touch third-generation users take heed</b>--Blackra1n only supports a tethered jailbreak. If your battery is depleted after the hack, then you will have to reconnect your iPod Touch to a computer and use the Blackra1n utility to reboot it.</li></ul></div></div></blockquote><div>via <a href="http://reviews.cnet.com/8301-19512_7-10372615-233.html">reviews.cnet.com</a></div> <p>For the detractors out there of the iPhone: </p><p>Yes I know I contradicted myself when I bought the thing-- But please listen to my reasons before calling me a hypocrite. </p><p>1. I totally wanted an Android based phone-- As an OpenSource fanatic, that is my dream phone-- and as soon as I can buy one from my carrier here in Japan that supports their features, OR someone can tell me how to put Kanji recognition, emoji, and such into an unlocked Android based phone, I am totally down with getting one.  But for now, the iPhone is THE phone to have if you're a gaijin (expat) living in Japan.  All services are supported, and they give us free wifi at all softbank hotspots.  Plus its the ONLY bilingual smartphone in Japan. </p><p>2. There really IS an app for that!  Yeah it's marketing hype, but considering I used my iphone to take and post videos from this past weekend's trip to the Katana festival, as I shot them, that's gotta be saying something.  I was talking to my brother and friends via facebook chat and Gtalk IM and when they wanted to see something, I could take and send a pic for them back in the states. I have 3 JPEN dictionaries, an app that takes pix of business cards and sends the pic to a server that does OCR and shoots back a VCF file of the contact info to import into Contacts.  It supports MS Exchange, and so does Google... so enterprise style push mail, contacts and calendar...  for FREE.  list goes on and on! </p><p>3. Extremely user-friendly like all Apple's stuff IMHO.  </p><p>4. Lots of accessories--I got a Mophie case with a built in battery pack, so when I get close to losing power, just switch it on and boom! </p><p>5. I still wouldn't have done it, if there was no such thing as Jailbreaking to let me install apps i NEED like tethering and such...  Apple should EMBRACE the hacker community IMHO-- look at HTC, winmo, and XDA-developers.com or the homebrew community with Palms new WebOS...  And dammit, create a central filesystem on this thing!!   </p><p>Let me know how how you feel about your iPhone if you have one, or if not, tell me why you steer clear of the Forbidden Fruit Phone...</p></div>      <p style="font-size: 8px;">  <a href="http://posterous.com">Posted via web</a>   from <a href="http://starrwulfe.posterous.com/i-have-a-jail-broken-iphone-now">...all about starrwulfe...</a>  </p>

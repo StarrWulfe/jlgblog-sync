@@ -1,0 +1,25 @@
+---
+ID: 497
+post_title: 'Weekend Muzik: Azian Black &#8211; Gimme 5 ft. Tough Junkie (OnMu remix)'
+author: Jason L. Gatewood
+post_date: 2010-07-04 01:46:00
+post_excerpt: ""
+layout: post
+permalink: >
+  http://jlgatewood.com/2010/07/04/weekend-muzik-azian-black-gimme-5-ft-tough-junkie-onmu-remix/
+published: true
+blogger_blog:
+  - www.jlgatewood.com
+blogger_author:
+  - Jason L. Gatewood
+blogger_permalink:
+  - >
+    /feeds/2631850721828837457/posts/default/4350846232342437933
+shorturl:
+  - http://J7is.ME/dj
+dsq_thread_id:
+  - "1289258079"
+tmac_last_id:
+  - "624406698640470016"
+---
+<p style="text-align: center;"><img class="aligncenter" src="http://www.jlgatewood.com/wp-content/uploads/2011/03/artworks-000001769715-co9yog-crop.jpg" alt="Track artwork" width="400" height="400" /></p><br /><br /><div><br /><div><br /><blockquote><br /><div><br /><div><br /><div><br /><div><br /><div><br /><div><br /><div><a href="http://i1.soundcloud.com/artworks-000001769715-co9yog-original.jpg?0f3dd3" target="SC_artwork">Download artwork</a></div><br /></div><br /></div><br /><h1><em> Gimme 5  ft. Tough Junkie (OnMu remix) </em></h1><br /><object class width="100%" height="81" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowscriptaccess" value="always" /><param name="src" value="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fsoundcloud.com%2Fazian-black%2Fgimme-5-ft-tough-junkie-onmu-remix&show_comments=true&auto_play=false&color=54ac29" /><embed type="application/x-shockwave-flash" width="100%" height="81" src="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fsoundcloud.com%2Fazian-black%2Fgimme-5-ft-tough-junkie-onmu-remix&show_comments=true&auto_play=false&color=54ac29" allowscriptaccess="always"></embed></object> <span><a href="http://soundcloud.com/azian-black/gimme-5-ft-tough-junkie-onmu-remix">Gimme 5 ft. Tough Junkie (OnMu remix)</a> by <a href="http://soundcloud.com/azian-black">Azian Black</a></span><br /><div><br /><div><br /><div>gimme-5-ft-tough-junkie-onmu-remix</div><br /><div><br /><div><br /><div><br /><br />My Remix of the Black Sheep song "Gimme 5" off the new album "FROM THE BLACK POOL OF GENIUS"<br /><br />A couple of months ago, Dres and Audible Treats launched the Prelude Remix Contest to promote the release of Dres' new album From The Black Pool Of Genius, while giving fans and aspiring producers the unique opportunity to be involved with the project. Dres gave aspiring and established producers alike the opportunity to remix all five cuts off Dres' From The Black Pool Of Genius: The Prelude EP, with the best submission of each of the five tracks to be selected by Dres and released on the official Prelude Remix EP, which will be subsequently available via all major digital retailers in the near future. In addition to each winner having their version included on the official Remix EP, Dres will also record one 16 bar verse for each of the winning producers on a beat of their choice, and each producer will win a free drum pack from Platinum Loops: the Hip-Hop Drums – Blazin Beats Volume 1 Sample Pack. Winning producers will also receive a signed copy of the From The Black Pool Of Genius: The Prelude EP. Now, after much listening, deliberation, and consideration by Dres, the winners have been chosen.<br /><br />Winners:<br />"Forever Luvlee" - Little Rooster<br />"Gimme 5" - Marcus Jacobi<br />"Pretty Bum" - Little Rooster<br />"Doin' It Wrong" - Jim B<br />"Road Warrior" - Digs Dorfman<br /><br />Due to an overwhelming amount of quality, Dres would also like to honor those who did not make the cut but offered outstanding remixes nonetheless.<br /><br />Honorable Mentions:<br />Jesse Semanko, Curtis Bay, Matic, DJ Prosha and DJ Navvy, Patric of NatureTone Productions, DJ Bazooka Joe, Taz of OnMugen (Azian Black), Invoker Sounds, Paul Damerau, Krisztian Jozsa, Adil Hatni, Nature Tone, O Chaim, Aayhasis Timeless, Jakob Ziegler.<br /><br /></div><br /></div><br /><div>Release date: Jul  2, 2010</div><br /></div><br /></div><br /></div><br /></div><br /></div><br /></div><br /></div></blockquote><br /><div>via <a href="http://soundcloud.com/azian-black/gimme-5-ft-tough-junkie-onmu-remix">soundcloud.com</a></div><br />Check it-- My man's track is hot yo.  I didn't even know Black Sheep were still recording, but why not...  I mean they're in the same class as Gangstarr, Afrika Bambataa, Tribe Called Quest, The Roots and P.E.  And my man OnMugen (twitter: @OnMugen) is HOTTTTT.  Dude gonna get kicked outta his 'hood in Yokohama for havin' the beats too loud when he's remixin...  Or else I'm gettin pulled over by Aichi cops for havin' the Benz blastin' with his tunes...  Whatevz..  Check these tunes and holla atcha boi.<br /><br /></div><br /></div>

@@ -1,0 +1,25 @@
+---
+ID: 640
+post_title: '>My thoughts on VEVO, online music video site by YouTube.'
+author: Jason L. Gatewood
+post_date: 2009-12-15 20:12:00
+post_excerpt: ""
+layout: post
+permalink: >
+  http://jlgatewood.com/2009/12/15/my-thoughts-on-vevo-online-music-video-site-by-youtube/
+published: true
+blogger_blog:
+  - www.jlgatewood.com
+blogger_author:
+  - Jason L. Gatewood
+blogger_permalink:
+  - >
+    /feeds/2631850721828837457/posts/default/1895162819210371426
+shorturl:
+  - http://J7is.ME/dc
+dsq_thread_id:
+  - "1278600092"
+tmac_last_id:
+  - ""
+---
+><div> <div></div>  <div>  <p><img src="http://www.jlgatewood.com/wp-content/uploads/2012/01/logo-vevo-onwhite.jpg" align="left" /><a href="http://www.vevo.com/">VEVO, a video site devoted exclusively to music and powered by YouTube. This new destination hopes to redefine the way people watch and engage with music online, as well as change the way the digital and music industries do business with each other. The partnership blends Google and YouTube's leading technology with material from a broad catalog of top artists from Universal Music Group, Sony Music and EMI. Check it out at </a><a href="http://www.vevo.com/">VEVO.com</a> and at <a href="http://www.youtube.com/vevo">YouTube.com/vevo</a>, and listen to Rihanna's welcome message:<p /><object height="300" width="500"><param name="movie" value="http://www.youtube.com/v/U0OanIiSGEc&hl=en_US&fs=1&" /><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><embed type="application/x-shockwave-flash" src="http://www.youtube.com/v/U0OanIiSGEc&hl=en_US&fs=1&" allowfullscreen="true" allowscriptaccess="always" height="300" width="500" /></object><br /></p></div><div>via <a href="http://youtube-global.blogspot.com/">youtube-global.blogspot.com</a></div> <p>I think this is the future of TV and general media consumption as we know it.  In 10 years, people will no longer say "did you see the game on FOX yesterday?" They'll say,"I was on Fox.com and saw the game--Check out my blog to see some highlights if you didn't catch it."  </p><p>With tools like Boxee and Miro allowing for one to easily aggregate web video and audio, and the price of flat-screen HDTVs down to reasonable levels-- we'll see this trend continue.  Those TVs are just larger computer monitors, and all have some sort of connector to just plug a PC's video output into it like a VGA or HDMI port.  I predict TVs to have some sort of thin client version of Boxee, Miro, Roku, or Orb in the next 3 years. I even look to Microsoft making a Windows Mediacenter TV running it on WinCE too.  Of course this TV will have wifi in it, but it may also have a built in hard drive and of course USB ports to plug in cameras, thumbdrives, etc.   </p><p>I'm not talking about having a PC in the TV--That's been done (I personally want a 27" iMac for that reason!)  I'm talking about some sort of stripped-down OS that just runs audio/video from the net.  I know it can be done too--  And this is where a company like Apple can do to TV what it did to the music industry (and also get its nascent Apple TV line in check) </p><p>Just as you can run iTunes on both macs and PCs, they should make Apple TV into an app, not just a piece of hardware.  Build in Extended iTunes functionality.  Build the app in HTML5...  Then go to TV makers like LG, Panasonic, Samsung, Sony, and more.  Get them to put in a stipped down version of OSX (like the iPhone) and run it on that.  </p><p>Got that?  The TV comes with the ability to grab content off the web.  A user like me could then just choose to stream the content, or download it locally and watch it later.  Also if possible, I could auto-publish an RSS feed of what I'm watching so that my friends could check out that play in the Falcons game I was talking about yesterday.   </p><p>Of course, I can do all this now (and I do-- with tools like Orb, Miro, and others) but it requires someone to be a tech-nerd (like me) and 3~5 pieces of equipment.  This idea will gain traction when someone just has to go to Best Buy and get a new TV, take it home and plug it in, navigate to their bookmarked playlists on their social sites (youtube, facebook) or use the wi-fi to hook into another PC in the house with media and playlists on it-- and watch.   </p><p>Vevo is just the start of this-- One can already start their broadcast with just a webcam and an internet connection.  Look to subscribing to this content the way you turn on CNN when something happens in the world-- Citizen Journalism straight from the source.   </p><p>By the way-- Vevo, like Hulu only works with US IP addresses; if you're like me and live outside the US, then you'll need to use a proxy to see it.  I use Hotspot Shield for the Mac.</p></div>      <p style="font-size: 9px;">  Posted via web by J7  </p>
